@@ -1,0 +1,16 @@
+PyMuPDF==1.23.21
+rank_bm25==0.2.2
+sentence-transformers==2.2.2
+transformers==4.40.0
+torch==2.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+scipy==1.13.0
+google-generativeai==0.5.4
+python-dotenv==1.0.1
+streamlit==1.33.0
+requests==2.31.0
+urllib3==2.2.1
+tqdm==4.66.2
+protobuf==4.25.3
+Pillow==10.3.0

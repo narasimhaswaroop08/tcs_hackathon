@@ -1,0 +1,4 @@
+user_message: how much time to claim 
+ ai_response: Claims are settled within 7 working days of verification.
+ 
+
